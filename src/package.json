@@ -1,0 +1,27 @@
+{
+  "name": "linqjstutorial",
+  "version": "1.0.0",
+  "description": "This is a Tutorial Project for linqjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "console.log('hello')"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/touhidalam69/linqjsTutorial.git"
+  },
+  "keywords": [
+    "linqjs",
+    "tutorial",
+    "nodejs"
+  ],
+  "author": "touhid alam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/touhidalam69/linqjsTutorial/issues"
+  },
+  "homepage": "https://github.com/touhidalam69/linqjsTutorial#readme",
+  "dependencies": {
+    "linq": "^3.1.0"
+  }
+}
